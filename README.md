@@ -6,29 +6,29 @@ O programa deve armazenar os dados das pessoas em um banco de dados (simulado po
 
 
 Funcionalidades:
-calcular o IMC
-exibir os dados completos do usuário selecionado na lista
-exibir a pessoa mais alta
-exibir a pessoa mais baixa
-exibir o maior IMC
-exibir o menor IMC
-exibir a pessoa mais velha
-exibir a pessoa mais nova
-exibir a pessoa mais pesada
-exibir a pessoa mais leve
-calcular a média de idade das mulheres
-calcular a média de idade dos homens
-calcular a média de altura dos homens
-calcular a média de altura das mulheres
-calcular o número de mulheres participantes
-calcular o número de homens participantes
-calcular o número de participantes
-listar todos os participantes por ordem alfabética
-listar os 5 participantes mais velhos
-listar os participantes por maior IMC
-listar participantes com IMC entre 18,5 e 24,9
-listar participantes maiores de 18 anos
-listar participantes homens, maiores de 18 anos com IMC maior que 27
+- calcular o IMC
+- exibir os dados completos do usuário selecionado na lista
+- exibir a pessoa mais alta
+- exibir a pessoa mais baixa
+- exibir o maior IMC
+- exibir o menor IMC
+- exibir a pessoa mais velha
+- exibir a pessoa mais nova
+- exibir a pessoa mais pesada
+- exibir a pessoa mais leve
+- calcular a média de idade das mulheres
+- calcular a média de idade dos homens
+- calcular a média de altura dos homens
+- calcular a média de altura das mulheres
+- calcular o número de mulheres participantes
+- calcular o número de homens participantes
+- calcular o número de participantes
+- listar todos os participantes por ordem alfabética
+- listar os 5 participantes mais velhos
+- listar os participantes por maior IMC
+- listar participantes com IMC entre 18,5 e 24,9
+- listar participantes maiores de 18 anos
+- listar participantes homens, maiores de 18 anos com IMC maior que 27
 
 
 Fórmula IMC
